@@ -20,5 +20,5 @@
   ✨ Gosto muito do desenvolvimento e infinitas possibilidades que a tecnologia trás ✨
 
 ## Estudos recentes
-- Tecnologia em Sistemas para Internet - Uninove
-- Engenheiro Front-End - Ebac
+- Tecnologia em Sistemas para Internet - UNINOVE
+- Engenheiro Front-End - EBAC
