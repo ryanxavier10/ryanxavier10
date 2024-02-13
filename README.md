@@ -21,4 +21,4 @@
 
 ## Estudos recentes
 - Tecnologia em Sistemas para Internet - UNINOVE
-- Engenheiro Front-End - EBAC
+- Engenheiro Front End - EBAC
